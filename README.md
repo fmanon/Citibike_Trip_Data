@@ -8,4 +8,8 @@ Citi Bike first launched in New York City back in May of 2013 with 6,000 bikes t
 
 Each of the above will take place across separate notebooks.  The data used in this project will be that of Jersey City's Citibike trips.  From it, we plan on deriving insight into the Citibikes themselves, as well as its users.
 
-This repo will be updated regularly until all above tasks are completed.
+This repo will be updated regularly until all above tasks are completed.  
+  
+  
+### Data  
+I downloaded all the databefore (excluded NJ) and merged them by year. Please feel free to [download](https://drive.google.com/file/d/1wkTQwi5_ncj-Cs8DZA6K63pwpBJtrW9K/view?usp=sharing) and enjoy the data! 😋
